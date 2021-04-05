@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="ja">
   <head>
@@ -31,7 +32,7 @@
 現在進行中のプロジェクトは<span class="project-kensu">1</span> 件です。</p>
 <br>
 
-      <div class="ogp-ichiran-img"><a href="ogp-new.html">
+      <div class="ogp-ichiran-img"><a href="ogp-new.php">
 <img class="ogp-img" src="img/ogp-mini.png" alt=""></a>
       </div>
 <!-- <hr color="#C4C4C4" width="100%" size="1"> -->
