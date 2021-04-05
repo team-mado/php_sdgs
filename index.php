@@ -1,7 +1,7 @@
 <?php
 session_start();
 error_reporting(E_ALL & ~E_NOTICE);
-include('functions.php');
+include('php_act/functions.php');
 
 // var_dump($_POST);
 // exit;

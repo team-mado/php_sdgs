@@ -37,11 +37,11 @@
   このままツイッターへ移動します</p>
   <br>
 <div class="button-box">
-<a href="ogp-new.html"><img src="img/bt-hensyu.png" alt=""></a>
-<a href="tweet.html"><img src="img/bt-tweet.png" alt=""></a><input type="submit" value="" /></input>
+<a href="ogp-new.php"><img src="img/bt-hensyu.png" alt=""></a>
+<a href="tweet.php"><img src="img/bt-tweet.png" alt=""></a><input type="submit" value="" /></input>
 <br>
           <div class="center">
-<a href="ogp-ichiran.html"><img src="img/bt-ichiranhe.png" alt=""></a><input type="submit" value="" /></input>
+<a href="ogp-ichiran.php"><img src="img/bt-ichiranhe.png" alt=""></a><input type="submit" value="" /></input>
       </div>
       </div>
       <br>
