@@ -40,4 +40,10 @@ main .button-box bottom {
 main .pw-text {
   margin-top: -10px;
 }
+
+.error_color {
+  color: red;
+}
+
+
 /*# sourceMappingURL=index.css.map */
