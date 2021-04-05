@@ -175,7 +175,7 @@
             <p>ご登録ありがとうございました。</p>
               <br><br><br>
               <div class="center">
-                <button class="simple_square_btn1"><a href="ogp-new.html">はい</a></button></div><br />
+                <button class="simple_square_btn1"><a href="ogp-ichiran.php">はい</a></button></div><br />
             </form><br>
 
           </div>
